@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Afroconnect Social Club (ASC)</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Afroconnect Social Club (ASC)</h1>
+    <p>Celebrating Culture, Empowering Community</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#activities">Activities</a>
+    <a href="#events">Events</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>
+      To celebrate, empower, and connect people of all descent through vibrant social activities, cultural exchanges, and community-building initiatives. 
+      We strive to create an inclusive space where heritage is honored, voices are uplifted, and lasting bonds are formed.
+    </p>
+  </section>
+
+  <section id="activities">
+    <h2>Our Activities</h2>
+    <ul>
+      <li>Playing football</li>
+      <li>Organising cultural events</li>
+      <li>Family Day for adults and kids</li>
+    </ul>
+  </section>
+
+  <section id="events">
+    <h2>Upcoming Events</h2>
+    <p>Stay tuned for our next football tournament and our annual Afro Culture Day celebration!</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:afroconsc@gmail.com">afroconsc@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Afroconnect Social Club (ASC). All rights reserved.</p>
+  </footer>
+</body>
+</html>
